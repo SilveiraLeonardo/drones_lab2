@@ -1,6 +1,6 @@
 # Drone Simulation - Laboratory 2 - Simulacoes de Drones e Aplicacoes
 
-Authors: Leonardo Silveira
+Authors: Leonardo Silveira, Mateus Rodrigues de Barros
 
 This repository holds the code of a drone simulation, done using Processing. 
 
